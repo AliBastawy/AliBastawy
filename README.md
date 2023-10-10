@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alibastawy" alt="alibastawy" /></a> </p>
 
+- 🔭 I've two years of experience in Software development Freelancing
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Vue and Laravel**
@@ -14,6 +16,8 @@
 - 📫 How to reach me **alibastawy16@gmail.com**
 
 - 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1hWLPaC3ldRTHnkKQ5f4lmGLXaEBYVmW5/view?usp=sharing" target="_blank">Here's my resume</a>**
+
+- 👨‍💻 I took 1st place in Cegedim Hackathon **<a href="https://drive.google.com/file/d/1Q55PeUFtCjk56p_SFrr8vyEasSbX30FK/view?usp=sharing" target="_blank">Hackathon Certificate</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
