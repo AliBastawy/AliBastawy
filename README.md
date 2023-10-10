@@ -1,7 +1,7 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ali Bastawy</h1>
-<h3 align="center">A passionate full stack developer from Egypt</h3>
+<h3 align="center">A passionate Full Stack Developer from Egypt</h3>
+<h4 align="center"> Currently enrolled in Computer Engineering Degree from Ain Shams University. </h4>
+<h5 align="center"> Expected Graduation in Jan 2024 </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alibastawy&label=Profile%20views&color=0e75b6&style=flat" alt="alibastawy" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alibastawy16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hWLPaC3ldRTHnkKQ5f4lmGLXaEBYVmW5/view?usp=sharing](https://drive.google.com/file/d/1hWLPaC3ldRTHnkKQ5f4lmGLXaEBYVmW5/view?usp=sharing)
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1hWLPaC3ldRTHnkKQ5f4lmGLXaEBYVmW5/view?usp=sharing" target="_blank">Here's my resume</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
